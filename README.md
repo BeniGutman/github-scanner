@@ -87,11 +87,6 @@ query {
 }
 ```
 
-## Notes
-
-1. Make sure your code adheres to clean code principles and is properly structured.
-2. The system is designed to limit parallel scans to a maximum of 2 repositories at the same time.
-
 ## License
 
 This project is open-source under the MIT License.
