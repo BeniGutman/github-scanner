@@ -21,7 +21,7 @@
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/github-scanner.git
+   git clone https://github.com/BeniGutman/github-scanner.git
    cd github-scanner
    ```
 
